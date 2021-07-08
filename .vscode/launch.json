@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Junio29d",
+            "request": "launch",
+            "mainClass": "Junio29d",
+            "projectName": "Ejemplo1_31cd0a37"
+        },
+        {
+            "type": "java",
+            "name": "Launch Junio29c",
+            "request": "launch",
+            "mainClass": "Junio29c",
+            "projectName": "Ejemplo1_31cd0a37"
+        },
+        {
+            "type": "java",
+            "name": "Launch Junio29b",
+            "request": "launch",
+            "mainClass": "Junio29b",
+            "projectName": "Ejemplo1_31cd0a37"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practicando1",
+            "request": "launch",
+            "mainClass": "Practicando1",
+            "projectName": "Ejemplo1_31cd0a37"
+        },
+        {
+            "type": "java",
+            "name": "Launch Junio29",
+            "request": "launch",
+            "mainClass": "Junio29",
+            "projectName": "Ejemplo1_31cd0a37"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Ejemplo1_31cd0a37"
+        }
+    ]
+}
